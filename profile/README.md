@@ -21,7 +21,7 @@
 
 ~ _Making advanced OSINT techniques accessible to everyone-from solo researchers to large organizations for free._ ~
 
-OMOIKA is an intelligence analysis platform for investigators, researchers, and security teams who need **traceable, offline-first, graph-native workflows**. OSINTBuddy transforms scattered data points into actionable intelligence networks through visual discovery and an extensible open source plugin system. We're building an alternative to tools such as Maltego, that enables researchers and investigators to transform fragmented digital evidence into structured intelligence: entities, relationships, provenance, and hypotheses, all captured in a single analytical environment.
+OMOIKA is an intelligence analysis platform for investigators, researchers, and security teams who need **traceable, offline-first, graph-native workflows**. OMOIKA transforms scattered data points into actionable intelligence networks through visual discovery and an extensible open source plugin system. We're building an alternative to tools such as Maltego, that enables researchers and investigators to transform fragmented digital evidence into structured intelligence: entities, relationships, provenance, and hypotheses, all captured in a single analytical environment.
 
 ## Project Status
 
@@ -34,7 +34,7 @@ OMOIKA is an intelligence analysis platform for investigators, researchers, and 
 >
 > Early access may contain bugs and we're intentionally updating often.
 
-## What's OSINTBuddy?
+## What's OMOIKA?
 
 - **Graph-Native by Design**: Intuitive graph-based interfaces transform complex data relationships into clear, interactive visualizations. Entities, relationships, evidence, and hypotheses are first-class primitives.
 - **Extendable Intelligence Engine**: An open-source Python-based plugin system allows custom entities to pull from any data source.
@@ -83,7 +83,7 @@ There is no open contribution process.
 - **PyPI**: [Install the package](https://pypi.org/project/omoika/) to get started
 - **Public plugin registry**: [github.com/omoika-institute/omoika](https://github.com/omoika-institute/omoika/)
 
-If you are evaluating OSINTBuddy for:
+If you are evaluating OMOIKA for:
 
 - _investigative journalism_
 - _security research_
