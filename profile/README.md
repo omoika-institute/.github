@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/omoika/omoika">
-    <img src="./watermark.svg" height="320px" alt="Logo">
+    <img src="./watermark.svg" height="360px" alt="Logo">
   </a>
 
 ---
