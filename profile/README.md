@@ -1,12 +1,12 @@
-[![Contributors](https://img.shields.io/github/contributors/omoika-institute/osintbuddy?style=flat-square)](https://github.com/omoika-institute/osintbuddy/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/omoika-institute/osintbuddy?style=flat-square)](https://github.com/omoika-institute/osintbuddy/stargazers)
-[![Issues](https://img.shields.io/github/issues/omoika-institute/osintbuddy?style=flat-square)](https://github.com/omoika-institute/osintbuddy/issues)
+[![Contributors](https://img.shields.io/github/contributors/omoika-institute/omoika?style=flat-square)](https://github.com/omoika-institute/omoika/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/omoika-institute/omoika?style=flat-square)](https://github.com/omoika-institute/omoika/stargazers)
+[![Issues](https://img.shields.io/github/issues/omoika-institute/omoika?style=flat-square)](https://github.com/omoika-institute/omoika/issues)
 [![PyPI Downloads](https://static.pepy.tech/badge/omoika)](https://pepy.tech/project/omoika)
 ![hits](https://komarev.com/ghpvc/?username=omoika-institute-17491-1u40145&label=hits)
 
 <p>
   <a href="https://github.com/omoika/omoika">
-    <img src="./watermark.svg" height="360px" alt="Logo">
+    <img src="./watermark.svg" height="320px" alt="Logo">
   </a>
 
 ---
